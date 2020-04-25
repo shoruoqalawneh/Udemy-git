@@ -1,0 +1,1 @@
+input('Enter anumber: ')+5
